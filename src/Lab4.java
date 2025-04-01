@@ -20,4 +20,3 @@ public class Lab4 {
   }
 }
 previous : 12
-previous : 13
