@@ -19,4 +19,4 @@ public class Lab4 {
   c.z30(c);
   }
 }
-previous : 2
+previous : 4
