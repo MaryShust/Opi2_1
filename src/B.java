@@ -1,9 +1,9 @@
 class B extends C {
   
   public B() {
-    z28 = 9;
-    z3 = 4;
-    z35 = 1L;
+    z28 = 90;
+    z3 = 40;
+    z35 = 10L;
   }
   
   public void z27() {
