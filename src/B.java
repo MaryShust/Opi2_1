@@ -1,5 +1,4 @@
 class B extends C {
-  
   public B() {
     z28 = 9;
     z3 = 4;
@@ -58,5 +57,4 @@ class B extends C {
   public void z30(B r) {
     r.z34();
   }
-  
 }
